@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Porfolio/static/css/main.5bc9ca3d.css",
+    "main.js": "/React-Porfolio/static/js/main.7f6f0332.js",
+    "static/media/lebonnet.png": "/React-Porfolio/static/media/lebonnet.cdd2bf70b12cbe0e3af8.png",
+    "static/media/weatherapp.png": "/React-Porfolio/static/media/weatherapp.a4195364315c7e0c5bab.png",
+    "static/media/profileimg3.jpg": "/React-Porfolio/static/media/profileimg3.9e9f10807efc0ad4d641.jpg",
+    "static/media/map.png": "/React-Porfolio/static/media/map.9d3b212ef6342b4fce2c.png",
+    "static/media/profileimg.jpg": "/React-Porfolio/static/media/profileimg.6a917a74c2eaf8809e92.jpg",
+    "static/media/profileimg4.jpg": "/React-Porfolio/static/media/profileimg4.256db06fc762a0e57dba.jpg",
+    "static/media/Montserrat-SemiBold.ttf": "/React-Porfolio/static/media/Montserrat-SemiBold.04af9a9e62bb4c47bd55.ttf",
+    "static/media/Montserrat-Bold.ttf": "/React-Porfolio/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
+    "static/media/cointracker.jpg": "/React-Porfolio/static/media/cointracker.8da9e0cd4402156b905b.jpg",
+    "static/media/RobotoMono-Regular.ttf": "/React-Porfolio/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "index.html": "/React-Porfolio/index.html",
+    "static/media/scroll-down-arrow.svg": "/React-Porfolio/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
+    "static/media/social-media-arrow.svg": "/React-Porfolio/static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
+    "main.5bc9ca3d.css.map": "/React-Porfolio/static/css/main.5bc9ca3d.css.map",
+    "main.7f6f0332.js.map": "/React-Porfolio/static/js/main.7f6f0332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc9ca3d.css",
+    "static/js/main.7f6f0332.js"
+  ]
+}
