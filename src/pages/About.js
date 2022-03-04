@@ -40,6 +40,8 @@ const AboutPageStyles = styled.div`
     }
   }
   .right {
+    border: 2px solid var(--gray-1);
+
     img {
       border: 2px solid var(--gray-1);
     }
