@@ -45,6 +45,8 @@ const ProjectSectionStyle = styled.div`
     font-size: 2rem;
   }
   @media only screen and (max-width: 768px) {
+    padding: 10rem 0 0;
+
     .projects_allItems {
       flex-direction: column;
       width: 100%;

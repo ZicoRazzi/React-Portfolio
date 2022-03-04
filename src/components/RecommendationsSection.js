@@ -76,6 +76,9 @@ const RecommendationSectionStyle = styled.div`
     transition: 250ms ease-in;
     transition-property: opacity, transform;
   }
+  @media only screen and (max-width: 768px) {
+    padding: 10rem 0 0;
+  }
 `;
 
 export default function RecommendationsSection() {
