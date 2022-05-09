@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "./static/css/main.5bc9ca3d.css",
-    "main.js": "./static/js/main.76a2bf0e.js",
+    "main.js": "./static/js/main.aef8fe9e.js",
     "static/media/lebonnet.png": "./static/media/lebonnet.cdd2bf70b12cbe0e3af8.png",
+    "static/media/greenctg.jpg": "./static/media/greenctg.e51b3bbd67082da93f16.jpg",
     "static/media/weatherapp.png": "./static/media/weatherapp.a4195364315c7e0c5bab.png",
     "static/media/profileimg3.jpg": "./static/media/profileimg3.9e9f10807efc0ad4d641.jpg",
-    "static/media/map.png": "./static/media/map.9d3b212ef6342b4fce2c.png",
     "static/media/profileimg.jpg": "./static/media/profileimg.6a917a74c2eaf8809e92.jpg",
     "static/media/profileimg4.jpg": "./static/media/profileimg4.256db06fc762a0e57dba.jpg",
     "static/media/Montserrat-SemiBold.ttf": "./static/media/Montserrat-SemiBold.04af9a9e62bb4c47bd55.ttf",
     "static/media/Montserrat-Bold.ttf": "./static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
     "static/media/cointracker.jpg": "./static/media/cointracker.8da9e0cd4402156b905b.jpg",
+    "static/media/map.png": "./static/media/map.7d98ba39122259f555f4.png",
+    "static/media/netflix.png": "./static/media/netflix.042542d058b4008a4137.png",
     "static/media/RobotoMono-Regular.ttf": "./static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
     "index.html": "./index.html",
     "static/media/scroll-down-arrow.svg": "./static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
     "static/media/social-media-arrow.svg": "./static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
     "main.5bc9ca3d.css.map": "./static/css/main.5bc9ca3d.css.map",
-    "main.76a2bf0e.js.map": "./static/js/main.76a2bf0e.js.map"
+    "main.aef8fe9e.js.map": "./static/js/main.aef8fe9e.js.map"
   },
   "entrypoints": [
     "static/css/main.5bc9ca3d.css",
-    "static/js/main.76a2bf0e.js"
+    "static/js/main.aef8fe9e.js"
   ]
 }
