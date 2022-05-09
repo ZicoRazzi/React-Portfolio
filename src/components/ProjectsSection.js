@@ -1,13 +1,13 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
 
-import SectionTitle from './SectionTitle';
-import { Swiper, SwiperSlide } from 'swiper/react';
-import SwiperCore, { Navigation } from 'swiper';
-import projects from '../assets/data/projects';
-import ProjectItem from './ProjectItem';
-import styled from 'styled-components';
-import 'swiper/css/bundle';
+import SectionTitle from "./SectionTitle";
+import { Swiper, SwiperSlide } from "swiper/react";
+import SwiperCore, { Navigation } from "swiper";
+import projects from "../assets/data/projects";
+import ProjectItem from "./ProjectItem";
+import styled from "styled-components";
+import "swiper/css/bundle";
 
 SwiperCore.use([Navigation]);
 
@@ -86,6 +86,7 @@ export default function ProjectsSection() {
           <Swiper
             spaceBetween={30}
             slidesPerView={1}
+            loop={true}
             navigation
             breakpoints={{
               //when window width is >= 640px
